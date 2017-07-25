@@ -5,7 +5,7 @@
   "scripts": {
     "start": "run-s build serve",
     "serve": "cross-env NODE_ENV=production node dist/index.js",
-    "build": "babel . -d dist --copy-files --source-maps --ignore node_modules,dist,package.json,package-lock.json,yarn.lock",
+    "build": "babel . -d dist --copy-files --source-maps --ignore node_modules,dist,package.json,package-lock.json,yarn.lock,screenshots",
     "dev": "cross-env NODE_ENV=development nodemon index.js --exec babel-node"
   },
   "dependencies": {
