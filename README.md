@@ -37,4 +37,4 @@
 
 4. To debug in vscode go to **View -> Debug** and click **Play**.
 
-![debug](https://raw.githubusercontent.com/douglasjunior/nodejs-babel-vscode-debug/master/screenshots/debug.PNG)
+![debug](https://raw.githubusercontent.com/douglasjunior/nodejs-babel-vscode-debug/master/screenshots/debug-vscode.png)
